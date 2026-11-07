@@ -3,6 +3,9 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Formats Covered](https://img.shields.io/badge/Formats-201%2B-ef4444)](https://kaijuconverter.com/formats)
 [![Conversion Pairs](https://img.shields.io/badge/Conversion_Pairs-3%2C208-38bdf8)](https://kaijuconverter.com/convert)
+[![Release: v1.0.0](https://img.shields.io/badge/Release-v1.0.0-emerald.svg)](https://github.com/PabloCirre/file-formats-encyclopedia/releases/tag/v1.0.0)
+[![jsDelivr](https://data.jsdelivr.com/v1/package/gh/PabloCirre/file-formats-encyclopedia/badge)](https://www.jsdelivr.com/package/gh/PabloCirre/file-formats-encyclopedia)
+[![Jupyter nbviewer](https://img.shields.io/badge/Jupyter-nbviewer-orange.svg)](https://nbviewer.org/github/PabloCirre/file-formats-encyclopedia/tree/main/notebooks/)
 [![MCP Server](https://glama.ai/mcp/servers/PabloCirre/kaijuconverter-mcp/badges/score.svg)](https://glama.ai/mcp/servers/PabloCirre/kaijuconverter-mcp)
 
 An open engineering reference and machine-readable dataset covering **201+ file formats**, **IANA MIME types**, **hexadecimal Magic Bytes signatures**, compression algorithms, and lossless/lossy transcoding paths across **3,208 verified conversion pairs**.
@@ -52,6 +55,39 @@ Maintained by the engineering team at **[KaijuConverter](https://kaijuconverter.
 - [HEVC / H.265 Video Codec Complete Guide](https://kaijuconverter.com/guides/hevc-h265-video-codec-complete-guide)
 - [Audio Sample Rates (44.1 kHz vs 48 kHz vs 96 kHz)](https://kaijuconverter.com/guides/audio-sample-rates-44100-48000-96000)
 - [How to Compress Image to Exact 20KB / 50KB / 100KB](https://kaijuconverter.com/tools/compress-image-to-20kb)
+
+---
+
+
+---
+
+## 📓 Interactive Engineering Jupyter Notebooks (Project Jupyter nbviewer)
+
+Explore our open-source interactive computational notebooks with pre-computed benchmarks, rate-distortion curves, and low-level binary parsers rendered via **[Project Jupyter nbviewer](https://nbviewer.org)**:
+
+1. **[01. Modern Web Image Compression Benchmark (AVIF vs WebP vs JPG)](https://nbviewer.org/github/PabloCirre/file-formats-encyclopedia/blob/main/notebooks/01-image-compression-avif-webp-jpg-benchmark.ipynb)**
+   - Empirical SSIM/PSNR curves, bits-per-pixel (bpp) metrics, and decode latency across photographic and graphic datasets.
+   - Ecosystem Cross-References: [AVIF vs WebP](https://kaijuconverter.com/compare/avif-vs-webp) · [JPG vs PNG](https://kaijuconverter.com/compare/jpg-vs-png) · [HEIC to JPG](https://kaijuconverter.com/convert/heic-to-jpg) · [PNG to WebP](https://kaijuconverter.com/convert/png-to-webp) · [Compress Image Online](https://kaijuconverter.com/tools/compress-image).
+
+2. **[02. PDF/A Long-Term Archival Compliance & Ghostscript Engine](https://nbviewer.org/github/PabloCirre/file-formats-encyclopedia/blob/main/notebooks/02-pdf-archival-pdfa-ghostscript-compliance.ipynb)**
+   - Conformance profiles (PDF/A-1b, PDF/A-2b, PDF/A-3u), DeviceIndependentColor ICC workflows, and VeraPDF validation rule analysis.
+   - Ecosystem Cross-References: [PDF to PDF/A Converter](https://kaijuconverter.com/tools/pdf-to-pdfa) · [Compress PDF](https://kaijuconverter.com/tools/compress-pdf) · [Merge PDF](https://kaijuconverter.com/tools/merge-pdf) · [OCR PDF](https://kaijuconverter.com/tools/ocr-pdf) · [PDF to DOCX](https://kaijuconverter.com/convert/pdf-to-docx) · [PDF Specifications](https://kaijuconverter.com/formats/pdf).
+
+3. **[03. Forensic Binary File Identification: Magic Bytes & MIME](https://nbviewer.org/github/PabloCirre/file-formats-encyclopedia/blob/main/notebooks/03-forensic-magic-bytes-mime-detection.ipynb)**
+   - Deterministic binary header scanning, ISOBMFF box navigation, RIFF container parsing, and anti-spoofing security.
+   - Ecosystem Cross-References: [Format Encyclopedia](https://kaijuconverter.com/formats) · [HEIC Architecture](https://kaijuconverter.com/formats/heic) · [AVIF Architecture](https://kaijuconverter.com/formats/avif) · [WebP Specs](https://kaijuconverter.com/formats/webp) · [FLAC Header Specs](https://kaijuconverter.com/formats/flac) · [Parquet Specs](https://kaijuconverter.com/formats/parquet) · [REST & MCP API Docs](https://kaijuconverter.com/api-docs).
+
+4. **[04. Audio & Video Codec Bitrate Analysis](https://nbviewer.org/github/PabloCirre/file-formats-encyclopedia/blob/main/notebooks/04-audio-video-codec-bitrate-analysis.ipynb)**
+   - Nyquist-Shannon frequency cutoffs, 44.1 kHz vs 48 kHz vs 96 kHz, psychoacoustic ODG listening quality, and video palette quantization.
+   - Ecosystem Cross-References: [Audio Sampling Rates Guide](https://kaijuconverter.com/es/guides/tasas-muestreo-audio-44100-48000-96000) · [FLAC vs MP3 Fidelity](https://kaijuconverter.com/compare/flac-vs-mp3) · [M4A vs MP3 Architecture](https://kaijuconverter.com/compare/m4a-vs-mp3) · [MP4 to MP3 Extractor](https://kaijuconverter.com/convert/mp4-to-mp3) · [WAV to MP3 Converter](https://kaijuconverter.com/convert/wav-to-mp3) · [Video to GIF Optimization Suite](https://kaijuconverter.com/tools/video-to-gif).
+
+5. **[05. 3D CAD & Mesh Formats: STL, OBJ & DXF](https://nbviewer.org/github/PabloCirre/file-formats-encyclopedia/blob/main/notebooks/05-3d-cad-mesh-stl-obj-dxf-structures.ipynb)**
+   - Binary STL 84-byte header and 50-byte facet geometry, normal vectors, manifold verification, and Wavefront OBJ vertex sharing.
+   - Ecosystem Cross-References: [STL 3D Printing Complete Guide](https://kaijuconverter.com/guides/stl-3d-printing-format-complete-guide) · [DWG AutoCAD Complete Guide](https://kaijuconverter.com/guides/dwg-autocad-drawing-format-cad-guide) · [STL to OBJ Converter](https://kaijuconverter.com/convert/stl-to-obj) · [DWG to PDF Exporter](https://kaijuconverter.com/convert/dwg-to-pdf).
+
+6. **[06. Columnar Data Serialization: Parquet vs CSV vs JSON vs SQL](https://nbviewer.org/github/PabloCirre/file-formats-encyclopedia/blob/main/notebooks/06-columnar-data-parquet-csv-json-sql.ipynb)**
+   - Analytical scan benchmarks on 1M rows, column projection efficiency, dictionary/RLE encoding, and zero-copy chunk reading.
+   - Ecosystem Cross-References: [CSV vs ODS Comparison](https://kaijuconverter.com/compare/csv-vs-ods) · [CSV vs XLSX Limits](https://kaijuconverter.com/compare/csv-vs-xlsx) · [CSV to JSON Converter](https://kaijuconverter.com/convert/csv-to-json) · [XLSX to CSV Converter](https://kaijuconverter.com/convert/xlsx-to-csv) · [JSON to CSV Serializer](https://kaijuconverter.com/convert/json-to-csv).
 
 ---
 

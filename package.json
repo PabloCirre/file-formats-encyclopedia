@@ -1,0 +1,23 @@
+{
+  "name": "file-formats-encyclopedia",
+  "version": "1.0.0",
+  "description": "Open CC-BY 4.0 encyclopedia and dataset of 128 digital file formats, magic bytes, MIME types, and RFC/ISO specifications",
+  "main": "kaijuconverter-2026-file-formats-dataset.csv",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PabloCirre/file-formats-encyclopedia.git"
+  },
+  "keywords": [
+    "file-formats",
+    "mime-types",
+    "magic-bytes",
+    "dataset",
+    "encyclopedia",
+    "iso-standards",
+    "rfc",
+    "kaijuconverter"
+  ],
+  "author": "Pablo Cirre",
+  "license": "CC-BY-4.0",
+  "homepage": "https://kaijuconverter.com/formats"
+}
