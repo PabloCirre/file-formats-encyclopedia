@@ -1,0 +1,8 @@
+{
+  "perfil_whatsapp": {
+    "video_codec": "H.264",
+    "audio_codec": "AAC",
+    "container": "MP4"
+  },
+  "conversores": "https://kaijuconverter.com/pt"
+}

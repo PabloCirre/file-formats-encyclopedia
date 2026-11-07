@@ -16,3 +16,16 @@ nav:
   - Formats Directory: https://kaijuconverter.com/formats
   - Comparison Matrix: https://kaijuconverter.com/compare
   - Precision Tools: https://kaijuconverter.com/tools
+  - Multi-Locale Technical Reference (2026):
+      - EN (English): locales/en/README.md
+      - ES (Español): locales/es/README.md
+      - PT (Português): locales/pt/README.md
+      - DE (Deutsch): locales/de/README.md
+      - FR (Français): locales/fr/README.md
+      - JA (日本語): locales/ja/README.md
+      - IT (Italiano): locales/it/README.md
+      - ID (Bahasa Indonesia): locales/id/README.md
+      - TR (Türkçe): locales/tr/README.md
+      - KO (한국어): locales/ko/README.md
+      - PL (Polski): locales/pl/README.md
+      - NL (Nederlands): locales/nl/README.md

@@ -1,0 +1,10 @@
+{
+  "linee_guida": "AgID Conservazione Digitale 2026",
+  "profili_ammessi": [
+    "PDF/A-1a",
+    "PDF/A-1b",
+    "PDF/A-2a",
+    "XML-FatturaPA"
+  ],
+  "strumenti": "https://kaijuconverter.com/it/tools"
+}

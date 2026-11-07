@@ -1,0 +1,11 @@
+{
+  "normativa": "Esquema Nacional de Interoperabilidad (ENI)",
+  "formatos_admitidos": [
+    "PDF/A-1b",
+    "PDF/A-2u",
+    "XML",
+    "CSV (UTF-8)",
+    "TIFF"
+  ],
+  "referencias": "https://kaijuconverter.com/es/tools"
+}
