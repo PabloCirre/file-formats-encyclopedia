@@ -1,0 +1,40 @@
+{
+  "title": "Comprehensive File Formats Encyclopedia & Magic Bytes Dataset (2026)",
+  "description": "Open reference dataset and encyclopedia cataloging 201+ file formats, MIME types, magic bytes signatures, container specs, compression standards, and conversion matrices.",
+  "creators": [
+    {
+      "name": "Cirre, Pablo",
+      "affiliation": "KaijuConverter Research"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "file formats",
+    "magic bytes",
+    "mime types",
+    "conversion matrix",
+    "pdf",
+    "heic",
+    "avif",
+    "webp",
+    "kaijuconverter"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://kaijuconverter.com/formats",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://kaijuconverter.com/compare",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://kaijuconverter.com/tools",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    }
+  ]
+}
