@@ -89,6 +89,15 @@ Explore our open-source interactive computational notebooks with pre-computed be
    - Analytical scan benchmarks on 1M rows, column projection efficiency, dictionary/RLE encoding, and zero-copy chunk reading.
    - Ecosystem Cross-References: [CSV vs ODS Comparison](https://kaijuconverter.com/compare/csv-vs-ods) · [CSV vs XLSX Limits](https://kaijuconverter.com/compare/csv-vs-xlsx) · [CSV to JSON Converter](https://kaijuconverter.com/convert/csv-to-json) · [XLSX to CSV Converter](https://kaijuconverter.com/convert/xlsx-to-csv) · [JSON to CSV Serializer](https://kaijuconverter.com/convert/json-to-csv).
 
+7. **[07. PDF/A Electronic Government Compliance & Archival (ES, DE, FR)](https://nbviewer.org/github/PabloCirre/file-formats-encyclopedia/blob/main/notebooks/07-pdfa-electronic-government-compliance-es-de-fr.ipynb)**
+   - ISO 19005 compliance (PDF/A-1b, PDF/A-2b, PDF/A-3b), veraPDF validation rules, and hybrid e-invoicing architecture (FacturaE, ZUGFeRD 2.2, Factur-X).
+   - Ecosystem Cross-References: [PDF to PDF/A Converter](https://kaijuconverter.com/tools/pdf-to-pdfa) · [Spanish Sedes Electrónicas PDF/A](https://kaijuconverter.com/es/tools/pdf-to-pdfa) · [German ZUGFeRD PDF/A](https://kaijuconverter.com/de/tools/pdf-to-pdfa) · [French Chorus Pro PDF/A](https://kaijuconverter.com/fr/tools/pdf-to-pdfa) · [Italian AGID PDF/A](https://kaijuconverter.com/it/tools/pdf-to-pdfa) · [Guía Reducir PDF Sin Perder Calidad](https://kaijuconverter.com/es/guides/reducir-tamano-pdf-sin-perder-calidad).
+
+8. **[08. Forensic Email Preservation: RFC 5322 (EML) vs MAPI (MSG) & PDF Archival](https://nbviewer.org/github/PabloCirre/file-formats-encyclopedia/blob/main/notebooks/08-email-forensics-eml-msg-mbox-pst-conversion.ipynb)**
+   - Cryptographic DKIM/SPF headers, MIME multipart boundary extraction, MAPI property streams (PR_RTF_COMPRESSED LZFu), and legal eDiscovery PDF/A-3 transformation.
+   - Ecosystem Cross-References: [Guía Forense EML y MSG (ES)](https://kaijuconverter.com/es/guides/formato-eml-msg-correo-electronico-guia) · [EML vs MSG Technical Guide (EN)](https://kaijuconverter.com/guides/eml-msg-email-file-formats-guide) · [EML MSG Leitfaden (DE)](https://kaijuconverter.com/de/guides/de-eml-msg-email-file-formats-guide) · [Guide EML MSG (FR)](https://kaijuconverter.com/fr/guides/fr-eml-msg-email-file-formats-guide) · [EML to PDF Converter](https://kaijuconverter.com/convert/eml-to-pdf) · [MSG to PDF Converter](https://kaijuconverter.com/convert/msg-to-pdf).
+
+
 ---
 
 ## 🌍 Multilingual Format Encyclopedias (12 Languages)

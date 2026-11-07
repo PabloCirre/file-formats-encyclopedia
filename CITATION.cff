@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this dataset in your research, academic work, or software projects, please cite it as below."
+title: "KaijuConverter Open File Formats & Codecs Encyclopedia Dataset"
+abstract: "Comprehensive open-access dataset, specifications catalog, and computational benchmarks covering 1,200+ digital file formats, MIME types, magic numbers, container structures, and ISO standards."
+type: dataset
+authors:
+  - family-names: "Cirre"
+    given-names: "Pablo"
+    orcid: "https://orcid.org/0009-0008-4122-3498"
+    website: "https://kaijuconverter.com"
+repository-code: "https://github.com/PabloCirre/file-formats-encyclopedia"
+url: "https://kaijuconverter.com"
+license: "CC-BY-4.0"
+version: "1.2.0"
+date-released: "2026-11-01"
+keywords:
+  - "file-formats"
+  - "mime-types"
+  - "magic-bytes"
+  - "dataset"
+  - "open-science"
+  - "digital-preservation"
+  - "iso-19005"
+  - "kaijuconverter"
